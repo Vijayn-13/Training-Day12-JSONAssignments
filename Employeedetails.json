@@ -1,0 +1,51 @@
+[ {
+  "employeeId" : 1,
+  "name" : "vijay",
+  "department" : "Software developer",
+  "address" : {
+    "street" : "adanur",
+    "city" : "kallakurichi",
+    "zipcode" : "606107"
+  },
+  "projects" : [ {
+    "projectId" : 1,
+    "projectName" : "task file management",
+    "status" : "completed"
+  }, {
+    "projectId" : 2,
+    "projectName" : "multithreading",
+    "status" : "pending"
+  } ]
+}, {
+  "employeeId" : 3,
+  "name" : "jaya",
+  "department" : "data analytics",
+  "address" : {
+    "street" : "chennai",
+    "city" : "chennai",
+    "zipcode" : "600044"
+  },
+  "projects" : [ {
+    "projectId" : 1,
+    "projectName" : "weather analysis",
+    "status" : "completed"
+  }, {
+    "projectId" : 2,
+    "projectName" : "big data analysis",
+    "status" : "completed"
+  } ]
+}, {
+  "employeeId" : 4,
+  "name" : "ram",
+  "department" : "cloud engineer",
+  "address" : {
+    "street" : "somajiguda",
+    "city" : "telangana",
+    "zipcode" : "607802"
+  },
+  "projects" : [ {
+    "projectId" : 1,
+    "projectName" : "cloud traffic management",
+    "status" : "pending"
+  } ]
+} ]
